@@ -1,0 +1,23 @@
+This is my current implementation of the Pokemon Game in a web browser
+
+Implementation Process:
+
+1. MAP CREATION WITH TILEMAPEDITOR
+  a. Download and Setup assets (itch.io)
+  b. Use TiledMapEditor API
+  c. Layer the Tiles for Ocean and Landmassess
+  d. map boundaries
+  e. foreground layers
+  f. exporting layers for project imports
+2. PLAYER DEVELOPMENT
+  a. Render map
+  b. moving player based on input from user
+  c. player to map boundary
+  d. movement animation
+3. BATTLE SEQUENCES
+  a. unfinished...
+
+Why TiledMapEditor? 
+
+Tiled allows developers to create maps using tiles, which are small images used as building blocks for creating complex map layouts.
+These tiles can represent various elements of a game environment like terrain, buildings, and objects. I used it because of its customization, tileset management, layer management
